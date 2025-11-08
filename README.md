@@ -1,4 +1,4 @@
-# 📊 Projeto 2 – Limpeza e Exploração de Dados de RH (Python + Seaborn)
+# 📊 Projeto  – Limpeza e Exploração de Dados de RH (Python + Seaborn)
 
 Este projeto simula uma análise de dados de Recursos Humanos, com foco em **limpeza de dados**, **tratamento de valores ausentes** e **análise exploratória** utilizando **Python, Pandas e Seaborn**.
 
